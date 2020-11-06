@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestore-grafica-47093": {
+      "hosting": {
+        "fireVotes": [
+          "firestore-grafica-47093"
+        ]
+      }
+    }
+  }
+}
